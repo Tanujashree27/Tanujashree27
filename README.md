@@ -1,5 +1,17 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/4e5c4a7e-3776-4554-a943-bcc31c3fa21f.png" alt="Masterhead Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanuja Shree</h1>
 <h3 align="center">Engineering smart solutions with precision, adaptability, and a mindset for innovation.</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" alt="Coding Girl GIF">
+</p>
+
+- 📫 How to reach me **tanujashree2004@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dwytVwB0d91aEH2gGzKeWWC1TZl3ntbl/view](https://drive.google.com/file/d/1dwytVwB0d91aEH2gGzKeWWC1TZl3ntbl/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
