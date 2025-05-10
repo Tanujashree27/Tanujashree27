@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/your-repo/main/4e5c4a7e-3776-4554-a943-bcc31c3fa21f.png" alt="Masterhead Banner">
+  <img src="https://www.google.com/imgres?q=coding%20banner&imgurl=https%3A%2F%2Fimages.picxy.com%2Fcache%2F2021%2F4%2F3%2F061648b1438fc20a7fe8e2d438578456.jpg&imgrefurl=https%3A%2F%2Fwww.picxy.com%2Fphoto%2F2032197&docid=ink_0aYs6bD7NM&tbnid=XIy42KJ2mLvfmM&vet=12ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA..i&w=1600&h=631&hcb=2&ved=2ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA" alt="Masterhead Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanuja Shree</h1>
