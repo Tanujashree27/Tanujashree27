@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://www.google.com/imgres?q=coding%20banner&imgurl=https%3A%2F%2Fimages.picxy.com%2Fcache%2F2021%2F4%2F3%2F061648b1438fc20a7fe8e2d438578456.jpg&imgrefurl=https%3A%2F%2Fwww.picxy.com%2Fphoto%2F2032197&docid=ink_0aYs6bD7NM&tbnid=XIy42KJ2mLvfmM&vet=12ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA..i&w=1600&h=631&hcb=2&ved=2ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA](https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w)" alt="Masterhead Banner">
+  <img src="[[https://www.google.com/imgres?q=coding%20banner&imgurl=https%3A%2F%2Fimages.picxy.com%2Fcache%2F2021%2F4%2F3%2F061648b1438fc20a7fe8e2d438578456.jpg&imgrefurl=https%3A%2F%2Fwww.picxy.com%2Fphoto%2F2032197&docid=ink_0aYs6bD7NM&tbnid=XIy42KJ2mLvfmM&vet=12ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA..i&w=1600&h=631&hcb=2&ved=2ahUKEwiBo-Tru5mNAxU2sFYBHdanHqw4HhAzegQIahAA](https://images.squarespace-cdn.com/content/v1/55b799b6e4b0abd99ecc36d9/1439847491222-G7NI5FTHPNWW2OD2H38T/banner3-01.png?format=2500w](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdpKAOMw9VkfOZB_OMw1P-O1zZ9xRgvD33g&s))" alt="Masterhead Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanuja Shree</h1>
