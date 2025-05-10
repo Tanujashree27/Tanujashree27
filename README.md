@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Tanujashree27/Tanujashree27/blob/main/images.jpeg" alt="Masterhead Banner" />
+  <img src="https://github.com/Tanujashree27/Tanujashree27/blob/main/images%20(1).jpeg?raw=true" alt="Masterhead Banner" width="800" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Tanuja Shree</h1>
 <h3 align="center">Engineering smart solutions with precision, adaptability, and a mindset for innovation.</h3>
 
