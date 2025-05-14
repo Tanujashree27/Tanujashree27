@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Tanuja Shree</h1>
 
+<h3 align="left">I'm currently pursuing Btech in C.V.Raman Global University 
+
+Open to collaborating on exciting projects! Reach out at: tanujashree2004@gmail.com</h3>
 ###
 
 <img align="right" height="0" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR85yPVJPyzRnV4RKoj9ZN2mmOCtgesAejHtQ&s"  />
