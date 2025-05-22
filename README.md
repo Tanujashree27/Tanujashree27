@@ -48,7 +48,10 @@ Open to collaborating on exciting projects! Reach out at: tanujashree2004@gmail.
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"/>
+    <a href="https://tanuja-portfolio-delta.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=800080&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"/>
 </a>
+
 </div>
 
 ###
